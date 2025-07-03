@@ -39,7 +39,7 @@ This project demonstrates ** loan ammortization ** created using microsoft excel
   - locking the cells in second row to drag other values directly 
   - application of real-world finance inside excel
  
-    ** files has been attached **
+    ** file has been attached **
 
     ## tools used
     - microsoft excel
