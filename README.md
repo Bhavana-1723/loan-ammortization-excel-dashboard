@@ -1,22 +1,22 @@
-# loan-ammortization-excel-dashboard
-This project demonstrates ** loan ammortization ** created using microsoft excel with powerful financial functions. it provides a clear view of how a fixed loan is repaid month by month over a given tenure 
+# Loan-ammortization-excel-dashboard
+This project demonstrates ** loan ammortization ** created using microsoft excel with powerful financial functions. It provides a clear view of how a fixed loan is repaid month by month over a given tenure 
 
 ---
 
-## key feature 
+## Key feature 
 - clean amortization table
 - loan breakdown visualization
 - realistic EMI calculator
 - financial insights on repayment pattern 
 
 
-## loan input fields 
+## Loan input fields 
 - loan amount
 - interest rate
-- loan tenure ( months)
+- loan tenure (months)
   
 
-## financial formulas used
+## Financial formulas used
 - PPMT() - calculates monthly EMI
 - IPMT() - interest portion of EMI
 - PPMT() - principal portion of EMI 
@@ -32,7 +32,7 @@ This project demonstrates ** loan ammortization ** created using microsoft excel
   - ending balance
  
 
-  ## what i learned
+  ## What i learned
   - how EMI is split into interest and principal
   - use of excel's built-in financial functions
   - creation of dynamic amortization schedules
@@ -41,7 +41,7 @@ This project demonstrates ** loan ammortization ** created using microsoft excel
  
     ** file has been attached **
 
-    ## tools used
+    ## Tools used
     - microsoft excel
     - formulas & conditional formatting
     - table design & financial planning
