@@ -21,7 +21,7 @@ This project demonstrates ** loan ammortization ** created using microsoft excel
 - IPMT() - interest portion of EMI
 - PPMT() - principal portion of EMI 
 - FV() -  future value of loan / investment
-- 
+
 
   ## Amortization table includes 
   - month
